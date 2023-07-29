@@ -1,6 +1,6 @@
 # Introducción
 
-Esto es un cambio de prueba hecho por luis guillermo
+Esto es un cambio de prueba hecho por Gonzalo
 ejemplo
 Este es un texto genérico
 
