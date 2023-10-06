@@ -3,7 +3,7 @@
 Esto es un cambio de prueba hecho por Gonzalo
 ejemplo
 Este es un texto genérico
-Hola soy Elisa
+
 **Tabla de Contenidos**
 
 <!-- TOC -->
