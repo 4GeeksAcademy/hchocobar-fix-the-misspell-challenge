@@ -1,7 +1,5 @@
 # Introducción
 
-Este es un texto genérico
-
 **Tabla de Contenidos**
 
 <!-- TOC -->
